@@ -1,5 +1,5 @@
 # Flutter Pokedex
-<p align="center" justify="center"><img src="https://images.app.goo.gl/XJe4qGbXE3RNT5zb7" alt="" width="156" height="156"><img src="https://cdn.icon-icons.com/icons2/851/PNG/512/Pokedex_tool_icon-icons.com_67529.png" alt="" width="156" height="156"></p>
+<p align="center" justify="center"><img src="https://cdn.icon-icons.com/icons2/851/PNG/512/Pokedex_tool_icon-icons.com_67529.png" alt="" width="156" height="156"><img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="" width="156" height="156"></p>
 
 
 ## About
