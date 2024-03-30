@@ -35,6 +35,6 @@ Contributions are welcome! If you find issues or have suggestions for improvemen
 
 If you have any questions or feedback, feel free to contact at [leopansonato@gmail.com](mailto:leopansonato@gmail.com).
 
-## Screnshot
+## Screenshot
 
 <p align="center"><img src="https://a.imagem.app/bdXAS3.jpeg" alt="" width="320"></p>
